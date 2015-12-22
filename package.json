@@ -1,6 +1,6 @@
 {
   "name": "conformity",
-  "version": "0.0.1-pre",
+  "version": "0.0.1-pre3",
   "description": "JSON validation middleware for express.js, kitchensink, etc",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
     "joi"
   ],
   "author": "Van Nguyen <thegoleffect@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^7.0.1"
+  }
 }
