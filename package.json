@@ -1,6 +1,6 @@
 {
   "name": "conformity",
-  "version": "0.0.1-pre3",
+  "version": "0.0.1-pre4",
   "description": "JSON validation middleware for express.js, kitchensink, etc",
   "main": "index.js",
   "scripts": {
