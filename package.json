@@ -25,6 +25,7 @@
   "author": "Van Nguyen <thegoleffect@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "joi": "^7.0.1"
+    "joi": "^7.0.1",
+    "xss": "^0.2.10"
   }
 }
